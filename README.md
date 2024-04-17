@@ -1,7 +1,7 @@
 ### hello! I'm Ennio Ryan
 
 ### Statistics:
-![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=EnnioRyan&show_icons=true&theme=dracula)
+![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=Ennioryan&show_icons=true&theme=dracula)
 
 ### contacts:
 
